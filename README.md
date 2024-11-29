@@ -8,9 +8,11 @@ Cette procédure vous accompagne étape par étape pour restaurer le code issue 
 Séquence 1 : Historique des commits
 -------------------------------------------------------------------------------------------------------
 L'historique de vos commits vous donne accès à vos différentes versions de votre code.  
-A chaque commit, un point de sauvegarde est créé dans GitHub.
+A chaque commit, un point de sauvegarde est créé dans GitHub.  
 
-![Screenshot Pipeline](Pipeline.png)   
+Cliquez sur Commits pour accèder à votre historique de commits  
+  
+![Screenshot Historique](Historique.jpg)   
 
 
 **Procedure à suivre :**  

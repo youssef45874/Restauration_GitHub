@@ -18,6 +18,14 @@ Sélectionnez le sauvegarde que vous souhaitez restaurer.
 
 ![Screenshot Browse](Browse.jpg)   
 
+A présent vous n'êtes plus dans votre branche main (branche principale) mais dans une nouvelle branche contenant votre code restauré.  
+
+![Screenshot Browse](Browse1.jpg)   
+
+Votre objectif est de faire de cette branche restaurée votre branche principale.  
+
+
+
 **Procedure à suivre :**  
 1° - Créez vous un compte sur GitHub : https://github.com/  
 Si besoin, une vidéo pour vous aider à créer votre propre compte GitHUB : [Créer un compte GitHUB](https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account)  

@@ -18,11 +18,14 @@ Sélectionnez le sauvegarde que vous souhaitez restaurer.
 
 ![Screenshot Browse](Browse.jpg)   
 
-A présent vous n'êtes plus dans votre branche main (branche principale) mais dans une nouvelle branche contenant votre code restauré.  
+A présent vous n'êtes plus dans votre branche main (branche principale) mais vous naviguez dans un point de restauration (votre code du passé).  
 
 ![Screenshot Browse](Browse1.jpg)   
 
-Votre objectif à présent est de faire de cette branche restaurée votre branche principale.  
+Votre objectif à présent est de faire de ce point de sauvegarde une nouvelle branche que vous fusionnerez ensuite à votre branche principale (main).  
+Créez votre nouvelle branche.  
+
+
 Vous devez pour cela demander à faire un "Pull requests".  
 
 ![Screenshot Pull](Pull1.jpg)   

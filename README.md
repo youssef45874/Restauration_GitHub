@@ -14,6 +14,9 @@ Cliquez sur Commits pour accèder à votre historique de commits
   
 ![Screenshot Historique](Historique.jpg)   
 
+Sélectionnez le sauvegarde que vous souhaitez restaurer.  
+
+![Screenshot Browse](Historique.jpg)   
 
 **Procedure à suivre :**  
 1° - Créez vous un compte sur GitHub : https://github.com/  

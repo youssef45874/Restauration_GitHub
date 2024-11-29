@@ -31,6 +31,9 @@ Bravo, vous venez de créer une nouvelle branche.
 
 ![Screenshot NewBranch1](NewBranche1.jpg)  
 
+Pour faire de cette nouvelle branche votre branche principale, vous devez faire un "Pull requets".  
+
+![Screenshot Pull1](Pull1.jpg)  
 
 
 

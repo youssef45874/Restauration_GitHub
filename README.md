@@ -22,13 +22,16 @@ A présent vous n'êtes plus dans votre branche main (branche principale) mais v
 
 ![Screenshot Browse](Browse1.jpg)   
 
-Votre objectif à présent est de faire de ce point de sauvegarde une nouvelle branche que vous fusionnerez ensuite à votre branche principale (main).  
+Votre objectif à présent est de faire de ce point de sauvegarde une nouvelle branche pour que vous puissiez ensuite la fusionner avec votre branche principale.  
+C'est à dire faire de cette branche de réstauration vote main.
 Créez votre nouvelle branche.  
 
+![Screenshot NewBranch](NewBranch.jpg)   
 
+  
 Vous devez pour cela demander à faire un "Pull requests".  
 
-![Screenshot Pull](Pull1.jpg)   
+
 
 
 **Procedure à suivre :**  

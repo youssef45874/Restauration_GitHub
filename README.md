@@ -3,6 +3,7 @@ PROCESSUS DE RESTAURATION GITHUB
 ------------------------------------------------------------------------------------------------------
 Suite à une modification de code dans GitHub, votre solution ne fonctionne plus. Vous devez donc restaurer votre code mais comment faire.  
 Cette procédure vous accompagne étape par étape pour restaurer le code issue de votre historique (vos commits).  
+
 -------------------------------------------------------------------------------------------------------
 Séquence 1 : Historique des commits
 -------------------------------------------------------------------------------------------------------

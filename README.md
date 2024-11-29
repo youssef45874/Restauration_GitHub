@@ -29,7 +29,7 @@ Créez votre nouvelle branche.
   
 Bravo, vous venez de créer une nouvelle branche.  
 
-![Screenshot NewBranch1](NewBranch1.jpg)  
+![Screenshot NewBranch1](NewBranche1.jpg)  
 
 
 

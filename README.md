@@ -22,8 +22,10 @@ A présent vous n'êtes plus dans votre branche main (branche principale) mais d
 
 ![Screenshot Browse](Browse1.jpg)   
 
-Votre objectif est de faire de cette branche restaurée votre branche principale.  
+Votre objectif à présent est de faire de cette branche restaurée votre branche principale.  
+Vous devez pour cela demander à faire un "Pull requests".  
 
+![Screenshot Pull](Pull1.jpg)   
 
 
 **Procedure à suivre :**  
